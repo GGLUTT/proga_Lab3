@@ -1,0 +1,17 @@
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\bin\Debug\net8.0\proga_LABA3.exe
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\bin\Debug\net8.0\proga_LABA3.deps.json
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\bin\Debug\net8.0\proga_LABA3.runtimeconfig.json
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\bin\Debug\net8.0\proga_LABA3.dll
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\bin\Debug\net8.0\proga_LABA3.pdb
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\obj\Debug\net8.0\proga_LABA3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\obj\Debug\net8.0\proga_LABA3.AssemblyInfoInputs.cache
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\obj\Debug\net8.0\proga_LABA3.AssemblyInfo.cs
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\obj\Debug\net8.0\proga_LABA3.csproj.CoreCompileInputs.cache
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\obj\Debug\net8.0\proga_LABA3.dll
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\obj\Debug\net8.0\refint\proga_LABA3.dll
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\obj\Debug\net8.0\proga_LABA3.pdb
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\obj\Debug\net8.0\proga_LABA3.genruntimeconfig.cache
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\obj\Debug\net8.0\ref\proga_LABA3.dll
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\obj\Debug\net8.0\proga_LABA3.csproj.AssemblyReference.cache
+C:\Users\newgg\source\repos\proga_LABA3\proga_LABA3\obj\Debug\net8.0\proga_LA.07AD5928.Up2Date
